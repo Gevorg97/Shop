@@ -201,5 +201,6 @@ echo	"<br><input name='login' placeholder='$login'><br><input type='password' pl
 </form>";
 echo "<a href='/ShopCi/customer/forgot_password' class='a'><button id='forgot'>$fp</button></a>";
 echo"</div><div class='col-sm-4'></div>
-</div>";
+</div>
+<div></div>";
 //2 2 4 3 1 ,array('class' => 'form-horizontal')
